@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Soy una persona proactiva, organizada y responsable, con gran capacidad de adaptación y trabajo en equipo. Mi objetivo es seguir creciendo profesionalmente y especializarme en tecnologías .NET mientras desarrollo proyectos que generen impacto.
 
 ---
-## 🎯 Proyecto Independiente  
+## 🎯 TrainTrack (TFG)  
 Actualmente estoy desarrollando un asistente de entrenamiento con Flutter, Dart y Firebase, con una arquitectura limpia y uso de Riverpod para la gestión de estado.
 
 📌 Características principales del proyecto:
