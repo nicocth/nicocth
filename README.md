@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy Nicolás Calderón
 
-💻 **Desarrollador Junior en Prácticas** | 🔹 *Apasionado por el desarrollo Web y móvil* | 🎯 *Mi objetivo es especializarme en .NET*  
+💻 **Desarrollador Junior en Prácticas** | 🔹 *Apasionado por el desarrollo Web y móvil* | 🎯 *Mi objetivo al finalizar TrainTrack, mi proyecto actual, es especializarme en .NET*  
 
 ---
 
@@ -24,8 +24,17 @@ Soy una persona proactiva, organizada y responsable, con gran capacidad de adapt
 
 ---
 ## 🎯 Proyecto Independiente  
-Actualmente estoy desarrollando un **asistente de entrenamiento con Flutter, Dart y Firebase**, con una arquitectura limpia y uso de Riverpod para la gestión de estado.  
-🔹 Mi objetivo al finalizarlo es **especializarme en .NET**.  
+Actualmente estoy desarrollando un asistente de entrenamiento con Flutter, Dart y Firebase, con una arquitectura limpia y uso de Riverpod para la gestión de estado.
+
+📌 Características principales del proyecto:
+✅ Registro e inicio de sesión con Firebase Authentication.
+✅ Almacenamiento de datos estructurados en Firestore, incluyendo usuarios, rutinas, historial de entrenamiento y PRs.
+✅ Gestión eficiente del estado con Riverpod para mejorar la escalabilidad.
+✅ Diseño moderno y responsive para brindar una mejor experiencia de usuario.
+
+🔹 Me encantaría recibir feedback sobre el proyecto para mejorar su arquitectura, funcionalidades y optimización. ¡Toda sugerencia es bienvenida!
+
+📌 Si tienes experiencia en Flutter o simplemente te interesa el desarrollo móvil, ¡échale un vistazo y dime qué opinas!
 
 ## 🛠️ Tecnologías y Habilidades  
 ### 🔹 Back-End  
