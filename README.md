@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy Nicolás Calderón
 
-💻 **Desarrollador Junior en Prácticas** | 🔹 *Apasionado por el desarrollo Web y móvil* | 🎯 *Mi objetivo al finalizar TrainTrack, mi proyecto actual, es especializarme en .NET*  
+💻 **Desarrollador Junior en Prácticas** | 🔹 *Apasionado por el desarrollo Web y móvil* | 🎯 *Mi objetivo actual es especializarme en .NET*  
 
 ---
 
@@ -24,7 +24,13 @@ Soy una persona proactiva, organizada y responsable, con gran capacidad de adapt
 
 ---
 ## 🎯 TrainTrack (TFG)  
-Actualmente estoy desarrollando un asistente de entrenamiento con Flutter, Dart y Firebase, con una arquitectura limpia y uso de Riverpod para la gestión de estado.
+Aplicación móvil desarrollada con Flutter y Firebase, pensada para quienes autogestionan su entrenamiento y buscan una herramienta intuitiva, sin anuncios y con gran capacidad de personalización.
+
+TrainTrack permite planificar, registrar y analizar el progreso físico de manera sencilla y visual. Los usuarios pueden crear rutinas por días, registrar series y pesos, añadir ejercicios personalizados (con imagen desde galería), y consultar estadísticas gráficas filtradas por mes.
+
+El objetivo principal del proyecto es centralizar el seguimiento del entrenamiento y motivar al usuario mediante una interfaz clara y sin distracciones. Todos los datos se sincronizan con Firestore, mientras que los ejercicios personalizados se almacenan localmente.
+
+Actualmente está publicado en Google Play Store, con mejoras implementadas a partir del feedback de testers. El proyecto sigue en evolución, con nuevas funciones en desarrollo.
 
 📌 Características principales del proyecto:
 ✅ Registro e inicio de sesión con Firebase Authentication.
