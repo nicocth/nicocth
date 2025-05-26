@@ -42,6 +42,8 @@ Actualmente está publicado en Google Play Store, con mejoras implementadas a pa
 
 📌 Si tienes experiencia en Flutter o simplemente te interesa el desarrollo móvil, ¡échale un vistazo y dime qué opinas!
 
+---
+
 ## 🛠️ Tecnologías y Habilidades  
 ### 🔹 Back-End  
 - .NET 8, C#, Java  
