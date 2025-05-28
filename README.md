@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ## 🚀 Sobre mí  
 Soy una persona proactiva, organizada y responsable, con gran capacidad de adaptación y trabajo en equipo. Mi objetivo es seguir creciendo profesionalmente y especializarme en tecnologías .NET mientras desarrollo proyectos que generen impacto.
 
+Perfil de Linkedin: www.linkedin.com/in/nicocth
 ---
 ## 🎯 TrainTrack (TFG)  
 Aplicación móvil desarrollada con Flutter y Firebase, pensada para quienes autogestionan su entrenamiento y buscan una herramienta intuitiva, sin anuncios y con gran capacidad de personalización.
